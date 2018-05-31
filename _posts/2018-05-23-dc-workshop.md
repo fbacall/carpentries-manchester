@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title:  "Data Carpentry workshop for social scientists, 13-14 December 2018"
 date:   2018-05-22 16:01:26 +0000
 categories: jekyll update
